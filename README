@@ -7,15 +7,15 @@ La pagina divisa in diverse sezioni che come detto dividono in diverse sezioni:
   - Programma
   - Schemi 
 
-Nella sezione programmi è presente in codice per arduino e l'applicazione per il telefono.
+Nella sezione programmi è presente in codice per Arduino e l'applicazione per il telefono (solo Android).
 
-Invece nella sezione Schemi sono presenti tutti gli schemi utili per la creazione come lo schema elettrico e lo schema della struttura quotata.
+Invece nella sezione Schemi sono presenti tutti gli schemi utili per la creazione come lo schema elettrico e lo schema della struttura (quotato).
 
-Per utilizzare l'applicazione bisiogna per prima cosa scaricare il file apk ed installarlo sul proprio dispositivo mobile;
-dopo che l'installazione è completata si aprirà il pannello principale, nella sezione centrale sono presenti le frecci per i comandi, nella parte in bassa è presente il punlante per la modifica della modalità di comando (da manuale ad automatico) e infine nella parte superiore è presente un tasto che porta alla lista dei dispositivi bluetoot disponibili.
+Per utilizzare l'applicazione bisiogna per prima cosa scaricare il file .apk ed installarlo sul proprio dispositivo mobile;
+Dopo che l'installazione è completata si aprirà il pannello principale, nella sezione centrale sono presenti le freccie per i comandi, nella parte in bassa è presente il punlante per la modifica della modalità di comando (da manuale ad automatico) e infine nella parte superiore è presente un tasto che porta alla lista dei dispositivi bluetoot disponibili.
 
 *
-Per poter connettere il Bluetoot tramite l'applicazione prima la scheda bluetoot deve essere associata con il dispositico mobile con cui si vuole comandare l'ape.
+Per poter connettere il Bluethoot tramite l'applicazione prima la scheda bluethoot deve essere associata con il dispositico mobile con cui si vuole comandare l'ape.
 *
 
-La struttura è stata fatta con del pexyglas da 5mm e i disegni sono stati creati conoscendo questto fatto ed è anche per questo motivo che non si può cambiare dimansione della lastra da tagliare.
+La struttura è stata fatta con del plexiglass da 5mm e i disegni sono stati creati conoscendo questto fatto ed è anche per questo motivo che non si può cambiare dimansione della lastra da tagliare.
